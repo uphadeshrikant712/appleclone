@@ -1,3 +1,1 @@
-# appleclone 
-
-Tis is project of creating clone of apple vision pro 13 website.
+Developed a faithful replica of the Apple Vision Pro website's frontend using HTML, CSS, and JavaScript. Achieved a precise visual and functional match with the original site, showcasing expertise in UI/UX design and responsive web development.
